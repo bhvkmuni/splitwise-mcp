@@ -1,5 +1,10 @@
 # Splitwise MCP Server — Control Splitwise With Plain English
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
+[![MCP](https://img.shields.io/badge/MCP-compatible-green.svg)](https://modelcontextprotocol.io)
+[![Splitwise API](https://img.shields.io/badge/Splitwise-API%20v3-orange.svg)](https://dev.splitwise.com)
+
 > "Add a ₩45,000 dinner, I paid, split equally."
 > Done. No app. No tapping. No math.
 
